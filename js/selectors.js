@@ -13,3 +13,8 @@ function ninjaBabySelector()
 {
   return $("#baby-ninj");
 }
+
+function divSelector()
+{
+  
+}
