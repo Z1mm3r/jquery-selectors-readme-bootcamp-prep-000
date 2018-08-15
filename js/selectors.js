@@ -8,3 +8,8 @@ function lastImageSelector()
 {
   return $("img:Last");
 }
+
+function ninjaBabySelector()
+{
+  
+}
